@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notepad</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_button">ADD NEW</string>
+    <string name="txtView">Working</string>
+    
+    <string name="Option_1_name">Options_1 name from xml</string>
+    <string name="option_1_1">A_1</string>
+    <string name="option_1_2">B_1</string>
+    <string name="option_1_3">C_1</string>
+    <string name="option_1_4">D_1</string>
+    <string-array name="Options_1_Array">
+        <item >@string/option_1_1</item>
+        <item >@string/option_1_2</item>
+        <item >@string/option_1_3</item>
+        <item >@string/option_1_4</item>
+    </string-array>
+
+</resources>
